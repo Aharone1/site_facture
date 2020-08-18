@@ -1,0 +1,9 @@
+Travaux pratiques
+
+- Créer un formulaire de création de factures
+qui contient les champs comme indiqués dans la base de données. 
+Pour créer une facture l'utilisateur doit être connecté.
+
+- Lorsque le formulaire est soumis, le client reçoit par mail également la facture au format text.
+
+- Créer un espace membre, pour lequel un utilisateur sauvegarde toutes ces factures.
